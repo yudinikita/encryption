@@ -1,0 +1,9 @@
+D:\Projects_VS17\C# - мое\Шифрование\bin\Release\Шифрование.exe.config
+D:\Projects_VS17\C# - мое\Шифрование\bin\Release\Шифрование.exe
+D:\Projects_VS17\C# - мое\Шифрование\bin\Release\Шифрование.pdb
+D:\Projects_VS17\C# - мое\Шифрование\obj\Release\Шифрование.csprojResolveAssemblyReference.cache
+D:\Projects_VS17\C# - мое\Шифрование\obj\Release\Разное.Form1.resources
+D:\Projects_VS17\C# - мое\Шифрование\obj\Release\Шифрование.Properties.Resources.resources
+D:\Projects_VS17\C# - мое\Шифрование\obj\Release\Шифрование.csproj.GenerateResource.Cache
+D:\Projects_VS17\C# - мое\Шифрование\obj\Release\Шифрование.exe
+D:\Projects_VS17\C# - мое\Шифрование\obj\Release\Шифрование.pdb

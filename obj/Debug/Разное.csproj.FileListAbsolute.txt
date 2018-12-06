@@ -1,0 +1,9 @@
+D:\Projects_VS17\C# - мое\Разное\obj\Debug\Разное.csprojResolveAssemblyReference.cache
+D:\Projects_VS17\C# - мое\Разное\obj\Debug\Разное.Form1.resources
+D:\Projects_VS17\C# - мое\Разное\obj\Debug\Разное.csproj.GenerateResource.Cache
+D:\Projects_VS17\C# - мое\Разное\bin\Debug\Шифрование.exe.config
+D:\Projects_VS17\C# - мое\Разное\bin\Debug\Шифрование.exe
+D:\Projects_VS17\C# - мое\Разное\bin\Debug\Шифрование.pdb
+D:\Projects_VS17\C# - мое\Разное\obj\Debug\Шифрование.Properties.Resources.resources
+D:\Projects_VS17\C# - мое\Разное\obj\Debug\Шифрование.exe
+D:\Projects_VS17\C# - мое\Разное\obj\Debug\Шифрование.pdb
