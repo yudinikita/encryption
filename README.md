@@ -20,4 +20,8 @@ __Метод шифрования:__ base64 -> AES (Rijndael).
 
 Автор: Юдин Никита
 
-Связь: nikitayudin782@gmail.com
+---
+
+> Site [yudinikita.ru](https://yudinikita.ru) &nbsp;&middot;&nbsp;
+> Email <mail@yudinikita.ru> &nbsp;&middot;&nbsp;
+> GitHub [@yudinikita](https://github.com/yudinikita)
